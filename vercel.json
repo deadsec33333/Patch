@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Tragedy-Strikes-Belfast-as-Cat-Named-Pumpkin-Falls-from-26th-Floor-of-Obel-Tower",
-        "destination": "/Tragedy-Strikes-Belfast-as-Cat-Named-Pumpkin-Falls-from-26th-Floor-of-Obel-Tower.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Tragic-Incident-in-Galway-Blind-Dog-Named-Pirate-Dies-After-Being-Tased",
+      "destination": "/Tragic-Incident-in-Galway-Blind-Dog-Named-Pirate-Dies-After-Being-Tased.html"
+    }
+  ]
+}
