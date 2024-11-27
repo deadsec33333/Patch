@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/Dog-Dies-After-Tragic-Online-Stunt-Streamed-Live-on-Kick-com",
-      "destination": "/Dog-Dies-After-Tragic-Online-Stunt-Streamed-Live-on-Kick-com.html"
+      "source": "/Dog-Dies-After-Tragic-Online-Stunt-Broadcasted-On-Platform-Kick",
+      "destination": "/Dog-Dies-After-Tragic-Online-Stunt-Broadcasted-On-Platform-Kick.html"
     }
   ]
 }
